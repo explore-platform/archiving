@@ -1,0 +1,55 @@
+{
+    "metadata": {
+        "title": "Input datasets for the Galactic Tomography (G-Tomo) EXPLORE app",
+        "upload_type": "dataset",
+        "description": "Dust extinction density cubes at different spatial resolutions and extends",
+        "access_right": "restricted",
+        "grants": [{"id": "101004214"}],
+        "creators": [{
+            "name": "EXPLORE",
+            "affiliation": "ACRI-ST"
+        }
+        ],
+        "contributors": [
+            {
+            "name": "N, Cox",
+            "type": "Researcher"
+            },
+            {"name": "J.-L., Vergely",
+            "type": "Researcher"},
+            {"name": "R, Lallement",
+            "type": "Researcher"}
+            ],
+        "subjects": [
+            {
+            "term": "Astronomy"
+            },
+            {
+            "term": "Galactic"
+            },
+            {
+            "term": "EXPLORE"
+            },
+            {
+            "term": "Dust"
+            },
+            {
+            "term": "Extinction"
+            },
+            {
+            "term": "Gaia"
+            },
+            {
+            "term": "ISM"
+            },
+            {
+            "term": "Tomography"
+            },
+            {
+            "term": "Interstellar"
+            }
+        ],
+        "communities": [{"identifier":"64ea2f20-7e9e-4992-b7d9-a62e23ac1d77"}],
+        "references": ["2022A&A...661A.147L", "2022A&A...664A.174V"]
+    }
+}
