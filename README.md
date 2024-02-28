@@ -30,3 +30,6 @@ python archive_on_zenodo.py -d directory -j json -t token -o files_to_omit
 
 CHIRAG DEVAIAH
 
+## Acknowledgements
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004214. 
